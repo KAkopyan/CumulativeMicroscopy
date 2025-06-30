@@ -1,4 +1,4 @@
-Custom-made script for ImageJ (Part 1)
+Custom-made script for ImageJ
 // Multiplex imaging using cumulative microscopy
 // Akopyan et al.
 // Department of Cell and Molecular Biology
